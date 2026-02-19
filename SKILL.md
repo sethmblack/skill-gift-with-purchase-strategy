@@ -4,7 +4,7 @@ description: Design irresistible promotional offers that convert browsers to buy
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4092
+  version: 1.0.4093
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - gift-with-purchase-strategy
